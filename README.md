@@ -3,7 +3,7 @@
 To use the chat icon add below code script to your codebase file -
 
 ```javascript
-<script src="https://cdn.github.io/chat_plugin.js" load="true"></script>
+<script src="https://cdn60.github.io/chat_plugin/chat_plugin.js" load="true"></script>
 ```
 
 To access productList use below method to access in your script -
@@ -12,5 +12,5 @@ To access productList use below method to access in your script -
 chatPlugin.getProductsList();
 ```
 
-See [demo here](https://cdn.github.io/)
+See [demo here](https://cdn60.github.io/chat_plugin/)
 
